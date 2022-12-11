@@ -4,12 +4,12 @@
 
 A link shortening service for my long GitHub username.
 
-Deployed to <https://personal-gh-proxy.deno.dev/>, linked to <https://etok.codes/>.
+Deployed with Deno Deploy, linked to <https://karni.codes/>.
 
 ---
 
-Created with 💖 by [**@EthanThatOneKid**][author]
+Created with 💖 by [**@karnikaavelumani**][author]
 
-[author]: https://etok.codes/
+[author]: https://karni.codes/
 [deno_deploy]: https://deno.com/deploy/
 [deno_badge]: https://img.shields.io/badge/deno-deploy-black?logo=deno
